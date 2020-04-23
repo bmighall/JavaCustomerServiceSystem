@@ -3,11 +3,6 @@
  * Project 4
  * CSCI 112
  * July 21st, 2016
- * Sources Consulted: Basic web articles and the old Java textbook.
- * 
- * By submitting this work, I attest that it is my original work and that I did not violate the
- * University of Mississippi academic policies set forth in the "M" book.
- * 
  */
 
 import java.text.DecimalFormat;
