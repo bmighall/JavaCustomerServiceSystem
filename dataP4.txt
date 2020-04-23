@@ -1,0 +1,28 @@
+6/20/2016
+Bob Johnson,1862983500991625
+Shirt,Blue Polo,25.99
+Pants,Brown Corduroy,32.99
+Pants,Blue Jeans,27.50
+Shirt,Navy Polo,25.99
+Shoes,Monk buckle,99.99
+7/8/2016
+Sarah Thompson,1726354600002453
+Comforter,Jungle pattern,120.00
+Sheets,Cream Egytian Cotton,110.99
+Sheets,Tan Egytian Cotton,110.99
+Pillow,Memory foam,69.50
+Pillow,Memory foam,69.50
+7/1/2016
+Jennifer Morgan,9273666481720925
+Mr. Coffee 12-cup,Coffee Maker,29.99
+Mainstay 18-piece,Pots and Pans,29.98
+Whirlpool 2-Cu Ft,Microwave,399.00
+Hampton Forge,Cutlery set,74.99
+Vitamix 5200,Blender,449.00
+7/10/2016
+Steve Smith,6475115301827463
+Husqvarna 240,Chainsaw,179.99
+Montezuma Professional,Tool box,253.00
+Ryobi 15amp,Table saw,129.00
+Black and Decker 5.2amp,Drill,29.98
+Troy-Bilt,Lawn mover,199.00
