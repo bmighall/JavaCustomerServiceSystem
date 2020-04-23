@@ -1,4 +1,4 @@
-# SimpleCustomerServiceProgram
+# JavaCustomerServiceSystem
 Creator: Ben Mighall
 
 This is a simple "customer service rep assistant" written in Java to demonstrate aggregation and file input. It has four classes: Driver, Purchase, Order, and Customer; it also has a data file of customer/purchase data, "dataP4.txt". 
